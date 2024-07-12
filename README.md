@@ -11,31 +11,33 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViniiPP&bg_color=0d1117&color=fff&line=A020F0&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniiPP/ViniiPP/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniiPP/ViniiPP/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniiPP/ViniiPP/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">  
-<a href="https://www.instagram.com/eu_viniipp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
+#
+
+<h3 align="left">Connect with me!</h3>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A020F0&color:FFF)](https://www.linkedin.com/in/vinicius-pereira-polli17)
+[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=A020F0&color:FFF)](https://www.instagram.com/eu_viniipp/)
+
  
-### Main skills:
+### **Main skills:**
 ![Python](https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-0d1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Postgres](https://img.shields.io/badge/postgres-0d1117.svg?style=for-the-badge&logo=postgresql&logoColor=blue)
 
-### Tools:
+### **Tools:**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0d1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-0d1117.svg?style=for-the-badge&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/github-0d1117.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-0d1117.svg?style=for-the-badge&logo=Eclipse&logoColor=blue)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0d1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### Other Knowledge:
+### **Other Knowledge:**
 ![HTML5](https://img.shields.io/badge/html5-0d1117.svg?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/css3-0d1117.svg?style=for-the-badge&logo=css3&logoColor=blue)
 ![C++](https://img.shields.io/badge/c++-0d1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
@@ -47,8 +49,9 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-0d1117?style=for-the-badge&logo=powerbi&logoColor=yellow)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi)
 ![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=JSON%20web%20tokens)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-0d1117.svg?style=for-the-badge&logo=google-cloud&logoColor=lightblue)
   
-### Studying in this moment:
+### **Studying in this moment:**
 ![Java](https://img.shields.io/badge/java-0d1117.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
 ![Kotlin](https://img.shields.io/badge/kotlin-0d1117.svg?style=for-the-badge&logo=kotlin&logoColor=purple)
 ![React](https://img.shields.io/badge/react-0d1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
