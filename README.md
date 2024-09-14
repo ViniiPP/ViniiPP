@@ -21,6 +21,7 @@
 
  
 ### **Main skills:**
+![React-Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-0d1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Postgres](https://img.shields.io/badge/postgres-0d1117.svg?style=for-the-badge&logo=postgresql&logoColor=blue)
@@ -33,7 +34,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0d1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### **Other Knowledge:**
-![React-Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/react-0d1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-0d1117.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
 ![Spring](https://img.shields.io/badge/spring-0d1117.svg?style=for-the-badge&logo=spring&logoColor=lightgreen)
