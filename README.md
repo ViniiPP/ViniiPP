@@ -33,6 +33,7 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-0d1117?style=for-the-badge&logo=android%20studio&logoColor=blue)
 ![Git](https://img.shields.io/badge/git-0d1117.svg?style=for-the-badge&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/github-0d1117.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-0d1117.svg?style=for-the-badge&logo=figma&logoColor=orange)
 
 
 ### **Other Knowledge:**
@@ -47,7 +48,6 @@
 ![PHP](https://img.shields.io/badge/php-0d1117.svg?style=for-the-badge&logo=php&logoColor=blue)
 ![Dart](https://img.shields.io/badge/dart-0d1117.svg?style=for-the-badge&logo=dart&logoColor=lightblue)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-0d1117.svg?style=for-the-badge&logo=bootstrap&logoColor=lightpurple)
-![Figma](https://img.shields.io/badge/figma-0d1117.svg?style=for-the-badge&logo=figma&logoColor=orange)
 ![Power Bi](https://img.shields.io/badge/power_bi-0d1117?style=for-the-badge&logo=powerbi&logoColor=yellow)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-0d1117.svg?style=for-the-badge&logo=google-cloud&logoColor=lightblue)
   
