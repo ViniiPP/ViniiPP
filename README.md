@@ -42,6 +42,7 @@
 ![CSS3](https://img.shields.io/badge/css3-0d1117.svg?style=for-the-badge&logo=css3&logoColor=blue)
 ![C++](https://img.shields.io/badge/c++-0d1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
 ![PHP](https://img.shields.io/badge/php-0d1117.svg?style=for-the-badge&logo=php&logoColor=blue)
+![Dart](https://img.shields.io/badge/dart-0d1117.svg?style=for-the-badge&logo=dart&logoColor=lightblue)
 ![NodeJS](https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=lightgreen)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-0d1117.svg?style=for-the-badge&logo=bootstrap&logoColor=lightpurple)
 ![MySQL](https://img.shields.io/badge/mysql-0d1117.svg?style=for-the-badge&logo=mysql&logoColor=lightblue)
