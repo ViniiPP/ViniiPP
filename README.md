@@ -28,9 +28,9 @@
 
 ### **Tools:**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0d1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-0d1117?style=for-the-badge&logo=android%20studio&logoColor=blue)
 ![Eclipse](https://img.shields.io/badge/Eclipse-0d1117.svg?style=for-the-badge&logo=Eclipse&logoColor=blue)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0d1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-0d1117?style=for-the-badge&logo=android%20studio&logoColor=blue)
 ![Git](https://img.shields.io/badge/git-0d1117.svg?style=for-the-badge&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/github-0d1117.svg?style=for-the-badge&logo=github&logoColor=white)
 
