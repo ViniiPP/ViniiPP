@@ -33,6 +33,10 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0d1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### **Other Knowledge:**
+![React-Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/react-0d1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/java-0d1117.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
+![Spring](https://img.shields.io/badge/spring-0d1117.svg?style=for-the-badge&logo=spring&logoColor=lightgreen)
 ![HTML5](https://img.shields.io/badge/html5-0d1117.svg?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/css3-0d1117.svg?style=for-the-badge&logo=css3&logoColor=blue)
 ![C++](https://img.shields.io/badge/c++-0d1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
@@ -48,7 +52,7 @@
   
 ### **Studying in this moment:**
 ![Java](https://img.shields.io/badge/java-0d1117.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
-![Kotlin](https://img.shields.io/badge/kotlin-0d1117.svg?style=for-the-badge&logo=kotlin&logoColor=purple)
-![React](https://img.shields.io/badge/react-0d1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117.svg?style=for-the-badge&logo=Flutter&logoColor=blue)
+![Go](https://img.shields.io/badge/go-0d1117.svg?style=for-the-badge&logo=go&logoColor=whiteblue)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
