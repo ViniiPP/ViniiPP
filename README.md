@@ -24,7 +24,7 @@
 ![React-Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-0d1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Postgres](https://img.shields.io/badge/postgres-0d1117.svg?style=for-the-badge&logo=postgresql&logoColor=blue)
+![Postgres](https://img.shields.io/badge/postgres-0d1117.svg?style=for-the-badge&logo=postgresql&logoColor=lightblue)
 
 ### **Tools:**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0d1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
