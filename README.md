@@ -54,6 +54,6 @@
 ### **Studying in this moment:**
 ![Java](https://img.shields.io/badge/java-0d1117.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
 ![Flutter](https://img.shields.io/badge/Flutter-0d1117.svg?style=for-the-badge&logo=Flutter&logoColor=blue)
-![Go](https://img.shields.io/badge/go-0d1117.svg?style=for-the-badge&logo=go&logoColor=whiteblue)
+![React-Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
