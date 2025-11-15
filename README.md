@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A020F0&color:FFF)](https://www.linkedin.com/in/vinicius-pereira-polli17)
-[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=A020F0&color:FFF)](https://www.instagram.com/eu_viniipp/)
+[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=A020F0&color:FFF)](https://www.instagram.com/viniipp/)
 
  
 ### **Main skills:**
