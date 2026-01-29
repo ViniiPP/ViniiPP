@@ -120,22 +120,22 @@
 <hr/>
 
 <h2>🌍 Aberto a oportunidades</h2>
+
 <pre>
 Cargos:
 - Desenvolvedor de Software
 - Desenvolvedor Full Stack
 - Backend (NodeJS)
-- Frontend (ReactJS / Next.js / TypeScript / HTML, CSS, JS / Tailwind)
+- Frontend (React / Next.js / TypeScirpt / HTML, CSS & JS / Tailwind)
 
 Modelo:
 - Remoto
 - Híbrido
-- Presencial (Prioridade: Região de Passo Fundo - RS. OBS: Aceitos propostas de realocação)
+- Presencial
 
 Local:
 Sananduva, RS — Brasil
 </pre>
 
-#
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
