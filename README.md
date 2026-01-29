@@ -124,7 +124,7 @@
 <pre>
 Cargos:
 - Desenvolvedor de Software
-- Desenvolvedor Full Stack
+- Analista de Qualidade de Software
 - Backend (NodeJS)
 - Frontend (React / Next.js / TypeScript / HTML, CSS & JS / Tailwind)
 
