@@ -126,7 +126,7 @@ Cargos:
 - Desenvolvedor de Software
 - Desenvolvedor Full Stack
 - Backend (NodeJS)
-- Frontend (React / Next.js / TypeScirpt / HTML, CSS & JS / Tailwind)
+- Frontend (React / Next.js / TypeScript / HTML, CSS & JS / Tailwind)
 
 Modelo:
 - Remoto
