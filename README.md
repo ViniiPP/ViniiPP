@@ -135,6 +135,8 @@ Modelo:
 
 Local:
 Sananduva, RS — Brasil
+Passo Fundo, RS - Brasil
+São Paulo, SP - Brasil
 </pre>
 
   
