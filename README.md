@@ -102,7 +102,7 @@
   <img src="https://skillicons.dev/icons?i=spring,nodejs" />
 
   <h4>🎨 Frontend & Design</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,figma" />
 
   <h4>🗄️ Banco de dados</h4>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb" />
@@ -126,7 +126,7 @@ Cargos:
 - Desenvolvedor de Software
 - Analista de Qualidade de Software
 - Backend (NodeJS)
-- Frontend (React / Next.js / TypeScript / HTML, CSS & JS / Tailwind)
+- Frontend (React / TypeScript / HTML, CSS & JS / Tailwind)
 
 Modelo:
 - Remoto
