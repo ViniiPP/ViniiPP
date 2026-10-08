@@ -22,8 +22,6 @@
 <hr/>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViniiPP&bg_color=0d1117&color=fff&line=A020F0&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniiPP/ViniiPP/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniiPP/ViniiPP/output/github-contribution-grid-snake-dark.svg">
