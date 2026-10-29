@@ -42,14 +42,9 @@
     <td>Design de interface, animações, responsividade</td>
   </tr>
   <tr>
-    <td><b>Backend (Java / Spring)</b></td>
-    <td align="center"><b>80%</b></td>
+    <td><b>Desenvolvimento Backend</b></td>
+    <td align="center"><b>90%</b></td>
     <td>APIs escaláveis, microserviços, segurança, performance</td>
-  </tr>
-  <tr>
-    <td><b>Integração Full-Stack</b></td>
-    <td align="center"><b>85%</b></td>
-    <td>Integração de APIs, arquitetura, persistência</td>
   </tr>
   <tr>
     <td><b>Design UI/UX</b></td>
@@ -58,12 +53,12 @@
   </tr>
   <tr>
     <td><b>Cloud & DevOps</b></td>
-    <td align="center"><b>75%</b></td>
+    <td align="center"><b>80%</b></td>
     <td>AWS, Docker, CI/CD, deploy</td>
   </tr>
   <tr>
     <td><b>IA & Automação</b></td>
-    <td align="center"><b>75%</b></td>
+    <td align="center"><b>80%</b></td>
     <td>Automação com n8n, integrações e IA generativa</td>
   </tr>
 </table>
